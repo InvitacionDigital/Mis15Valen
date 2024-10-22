@@ -1,6 +1,5 @@
 import React from "react";
 import { useState } from "react";
-import globosGif from '/globosGif.gif';
 
 function Timer() {
         const [dayy, setDayy] = useState(0);
