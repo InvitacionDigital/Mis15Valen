@@ -13,7 +13,7 @@ function Timer() {
               hour = minute * 60,
               day = hour * 24;
 
-        const birthday = "12/07/2024 21:00:00";
+        const birthday = "03/07/2025 21:00:00";
         const countDown = new Date(birthday).getTime();
 
         const x = setInterval(() => {    
